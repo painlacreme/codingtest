@@ -20,7 +20,7 @@
 1. 주사위 굴리는 문제
     - 구체적인 설명없이 이렇게만 써있었...
   
-## 문제 사이트
+## 문제 풀 수  사이트
 https://programmers.co.kr/learn/challenges?tab=practice_kit
 
 
