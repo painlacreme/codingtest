@@ -14,13 +14,13 @@
 1. 임의의 숫자열에 대해 둘레 길이가 가장 긴 삼각형을 만들어라
 1. 단어들을 숫자를 이용해 정리하려 한다. 예를 들어, (1, "Boy"), (2, "Girl"), (3, "Zix") , ... 식으로 입력하여 저장시키고, "2"를 입력하면 "Girl"이 출력되게 하라
 1. 진법 변환 문제
-  - input: 10진수의 수, 변환할 진법의 수
-  - output: 변환된 진법의 수
+   - input: 10진수의 수, 변환할 진법의 수
+    - output: 변환된 진법의 수
 1. Run Length Encoding
 1. 주사위 굴리는 문제
-  - 구체적인 설명없이 이렇게만 써있었...
+    - 구체적인 설명없이 이렇게만 써있었...
   
-## 문제 사이트
+## 문제 풀 수  사이트
 https://programmers.co.kr/learn/challenges?tab=practice_kit
 http://euler.synap.co.kr
 
