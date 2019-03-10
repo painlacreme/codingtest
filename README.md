@@ -19,6 +19,9 @@
 1. Run Length Encoding
 1. 주사위 굴리는 문제
     - 구체적인 설명없이 이렇게만 써있었...
+    
+## 공부 일정
+- 정렬의 'k번째수' 풀어오기(~3/12 화 저녁)
   
 ## 문제 풀 수 사이트
 - https://programmers.co.kr/learn/challenges?tab=practice_kit
